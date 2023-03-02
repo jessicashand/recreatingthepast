@@ -11,7 +11,7 @@ Drawn to the mesmerizing glow of the shapes that slide into a whole greater than
 
 ![A side-by-side of the original and recreated artworks](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/whitney_sidebyside.png)
 
-(Check out the full animated recreation [here](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/whitney_recreation.mov).
+(Check out the full animated recreation [here](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/whitney_recreation.mov)).
 
 ## Week 3: Muriel Cooper
 I took a bit of creative freedom this week with my recreation of a mathematics textbook cover. In the two-dimensional graphic, I love the ambiguity as to which set of horizontal lines is nearer to the foreground, and which one is further away. I tried to emphasize this in my interactive version [here](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/3d.mov).
