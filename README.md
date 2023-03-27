@@ -30,7 +30,7 @@ Here's Ken Knowlton's _This is Not Not a Teapot_. I was immediately drawn to the
 
 ## Week 6: Nancy Burson and Jason Salavon
 
-This week, I experimented with several different image datasets to which I applied basic versions of the same image averaging techniques used extensively by Burson and Salavon. Here are the results from (1) averaging every version of Evelyn Wang in the movie _Everything Everywhere All At Once_ (as shown in the montage from [this clip](https://www.youtube.com/watch?v=3yWn5YqdzTg&ab_channel=Hup)) and (2) averaging every official U.S. presidential portrait shown in the National Portrait Gallery, through January 2021. 
+This week, I experimented with several different image datasets to which I applied basic versions of the same image averaging techniques used extensively by Burson and Salavon. Here are the results from (1) averaging every version of Evelyn Wang in the movie _Everything Everywhere All At Once_ (as shown in the montage from [this clip](https://www.youtube.com/watch?v=3yWn5YqdzTg&ab_channel=Hup)) and (2) averaging every official U.S. presidential portrait, from Presidents Washington through Trump. 
 
 ![Every version of _Everything Everywhere All At Once_'s Evelyn Wang](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/evelyn.png)
 ![U.S. presidential portraits](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/presidents.png)
