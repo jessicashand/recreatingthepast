@@ -25,4 +25,12 @@ This week, I recreated Odita's _Mamba Negra_. His use of color and saturation is
 
 ## Week 5: Ken Knowlton
 Here's Ken Knowlton's _This is Not Not a Teapot_. I was immediately drawn to the underlying concept and subversive play on Magritte’s _The Treachery of Images_. I also love how the shards condense on one end of the teapot and begin to disperse on the other, creating the illusion of movement. 
+
 ![A side-by-side of the original and recreated artworks](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/knowlton_sidebyside.png)
+
+## Week 6: Nancy Burson and Jason Salavon
+
+This week, I experimented with several different image datasets to which I applied basic versions of the same image averaging techniques used extensively by Burson and Salavon. Here are the results from (1) averaging every version of Evelyn Wang in the movie _Everything Everywhere All At Once_ (as shown in the montage from [this clip](https://www.youtube.com/watch?v=3yWn5YqdzTg&ab_channel=Hup)) and (2) averaging every official U.S. presidential portrait shown in the National Portrait Gallery, through January 2021. 
+
+![Every version of _Everything Everywhere All At Once_'s Evelyn Wang](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/evelyn.png)
+![U.S. presidential portraits](https://github.com/jessicashand/recreatingthepast/blob/main/recreations/presidents.png)
